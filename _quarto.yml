@@ -22,6 +22,7 @@ format:
     highlight-style: haddock
     default-image-extension: svg
     css: styles.css
+    output-file: index.html
   pdf:
     documentclass: scrreprt
     papersize: a4paper
