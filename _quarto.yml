@@ -15,6 +15,7 @@ filters:
 
 format:
   html:
+    title: Simple Radiology Clinic HCCM
     theme: lumen
     code-line-numbers: true
     syntax-definitions: 
