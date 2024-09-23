@@ -1,0 +1,43 @@
+{
+  "index.qmd": {
+    "index.html": "50ab4fbf"
+  },
+  "intro.qmd": {
+    "intro.html": "356bbd05"
+  },
+  "summary.qmd": {
+    "summary.html": "8dbe8aea"
+  },
+  "references.qmd": {
+    "references.html": "b9932caf"
+  },
+  "lab_1.qmd": {
+    "lab_1.html": "868cf185"
+  },
+  "lab_1_cm.qmd": {
+    "lab_1_cm.html": "5660a5f9",
+    "lab_1_cm.tex": "495142b8",
+    "lab_1_cm.md": "8fe7e1af"
+  },
+  "chapters/lab2/lab2.qmd": {
+    "lab2.html": "1664e1ee"
+  },
+  "chapters/lab_1/lab_1.qmd": {
+    "lab_1.html": "089dbe19"
+  },
+  "chapters/lab_1_cm/lab_1_cm.qmd": {
+    "lab_1_cm.html": "7d06aeaa"
+  },
+  "chapters/lab_2/lab_2.qmd": {
+    "lab_2.html": "ee5a92c4"
+  },
+  "docs/lab_1_cm.md": {
+    "lab_1_cm.html": "130932e3",
+    "lab_1_cm.tex": "5f52f44c",
+    "lab_1_cm-gfm.md": "5ccf5431"
+  },
+  "docs/docs/lab_1_cm-gfm.md": {
+    "lab_1_cm-gfm.html": "8886a314",
+    "lab_1_cm-gfm.tex": "eb2bfbcc"
+  }
+}

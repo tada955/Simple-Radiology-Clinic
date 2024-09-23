@@ -1,0 +1,47 @@
+project:
+  output-dir: docs
+
+pdf-engine: pdflatex
+
+reference-location: margin
+citation-location: margin
+
+latex-auto-install: true
+
+callout-icon: false
+
+filters:
+  - parse-latex
+
+format:
+  html:
+    theme: lumen
+    code-line-numbers: true
+    syntax-definitions: 
+      - cm_pseudo.xml
+    highlight-style: haddock
+    default-image-extension: svg
+    css: styles.css
+  pdf:
+    documentclass: scrreprt
+    papersize: a4paper
+    fontsize: 10pt
+    include-in-header: preamble.tex
+    fig-pos: htbp
+    tbl-pos: htbp
+    geometry:
+      # - showframe
+      - top=10mm
+      - left=17.5mm
+      - right=82.5mm
+      - marginparsep=10mm
+      - marginparwidth=55mm
+    code-line-numbers: true
+    default-image-extension: pdf
+
+crossref:
+  custom:
+    - kind: float
+      reference-prefix: Control Policy
+      key: cntrlplcy
+      latex-env: cntrlplcy
